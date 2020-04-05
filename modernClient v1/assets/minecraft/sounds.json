@@ -1,0 +1,17 @@
+{
+  "cricket": {
+    "subtitle": "Cricket chirp",
+    "sounds": [
+        {"name": "cricket1", "attenuation_distance": true},
+        {"name": "cricket2", "attenuation_distance": true},
+        {"name": "cricket3", "attenuation_distance": true},
+        {"name": "cricket4", "attenuation_distance": true}
+    ]
+  },
+    "frog": {
+    "subtitle": "Frog croaks",
+    "sounds": [
+         "frog1"
+    ]
+  }
+}

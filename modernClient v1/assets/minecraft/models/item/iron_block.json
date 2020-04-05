@@ -1,0 +1,10 @@
+{
+    "parent": "block/iron_block",
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/custom/truckSilver"},
+		{"predicate": {"custom_model_data":2}, "model": "item/custom/SUVSilver"},
+		{"predicate": {"custom_model_data":3}, "model": "item/custom/compactSilver"},
+		{"predicate": {"custom_model_data":4}, "model": "item/custom/crossoverSilver"},
+		{"predicate": {"custom_model_data":5}, "model": "item/custom/sedanSilver"}
+	]
+}

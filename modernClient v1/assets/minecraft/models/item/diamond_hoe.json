@@ -1,0 +1,13 @@
+
+
+{
+"parent": "item/handheld",
+"textures": {
+"layer0": "item/diamond_hoe"
+},
+
+"overrides": [
+{"predicate": {"custom_model_data":1}, "model": "item/custom/diamond_sickle"},
+    {"predicate": {"custom_model_data":2}, "model": "item/custom/ender_giant_blade"}
+]
+}

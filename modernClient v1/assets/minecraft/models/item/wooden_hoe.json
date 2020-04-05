@@ -1,0 +1,15 @@
+
+
+{
+"parent": "item/handheld",
+"textures": {
+"layer0": "item/wooden_hoe"
+},
+
+"overrides": [
+{"predicate": {"custom_model_data":1}, "model": "item/custom/shiv"},
+    {"predicate": {"custom_model_data":2}, "model": "item/custom/stone_sickle"},
+    {"predicate": {"custom_model_data":3}, "model": "item/custom/iron_sickle"},
+    {"predicate": {"custom_model_data":4}, "model": "item/custom/flint_sickle"}
+]
+}
