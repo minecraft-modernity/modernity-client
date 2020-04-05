@@ -1,5 +1,5 @@
 {
-    "parent": "item/handheld",
+    "parent": "item/paper",
     "textures": {
         "layer0": "item/cash"
     }

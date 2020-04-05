@@ -1,10 +1,13 @@
 {
-    "parent": "item/handheld",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/paper"
+	},
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": ""},
-		{"predicate": {"custom_model_data":5}, "model": "item/custom/truckSilver"},
-		{"predicate": {"custom_model_data":10}, "model": "item/custom/truckSilver"},
-		{"predicate": {"custom_model_data":20}, "model": "item/custom/truckSilver"},
-		{"predicate": {"custom_model_data":100}, "model": "item/custom/truckSilver"}
+		{"predicate": {"custom_model_data":1}, "model": "item/custom/cash"},
+		{"predicate": {"custom_model_data":5}, "model": "item/custom/cash"},
+		{"predicate": {"custom_model_data":10}, "model": "item/custom/cash"},
+		{"predicate": {"custom_model_data":20}, "model": "item/custom/cash"},
+		{"predicate": {"custom_model_data":100}, "model": "item/custom/cash"}
 	]
 }
