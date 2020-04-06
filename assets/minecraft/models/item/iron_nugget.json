@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/iron_nugget"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/custom/coin"},
+		{"predicate": {"custom_model_data":5}, "model": "item/custom/coin"},
+		{"predicate": {"custom_model_data":25}, "model": "item/custom/coin"}
+	]
+}
